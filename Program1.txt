@@ -1,6 +1,3 @@
 Hi everyone
 My name is Ritesh S Betsur
-Working @ TESTYANTRA SOFTWARE SOLUTIONS
-Located at Kathriguppe, Bengaluru.
-Priyanka Ma'am taught HTML from 08-08-2022.
-Shashi Sir is our Trainer for JS, React JS and Node JS
+From TYSS
